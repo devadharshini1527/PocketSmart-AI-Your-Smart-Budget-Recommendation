@@ -1,0 +1,13 @@
+{
+  "routes": [
+    { "path": "/", "title": "PocketSmart AI" },
+    { "path": "/planner/home", "title": "Home Interior Planner" },
+    { "path": "/planner/party", "title": "Party Budget Planner" },
+    { "path": "/planner/jewelry", "title": "Jewelry Planner" },
+    { "path": "/dashboard", "title": "Dashboard" },
+    { "path": "/history", "title": "Recommendation History" },
+    { "path": "/login", "title": "Log in" },
+    { "path": "/register", "title": "Create account" },
+    { "path": "/404", "title": "Not found" }
+  ]
+}
